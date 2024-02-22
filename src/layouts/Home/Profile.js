@@ -22,8 +22,8 @@ const ProfileText = ({ visible, titleId }) => (
       <DecoderText text="Hi there" start={visible} delay={500} />
     </Heading>
     <Text className={styles.description} data-visible={visible} size="l" as="p">
-      I’m Douglas, currently I live in South Africa working as a senior web developer at{' '}
-      <Link href="https://www.qwilr.com">Qwilr</Link>. My projects include web apps,
+      I’m Douglas, currently I live in Zimbabwe working as a senior web developer at{' '}
+      <Link href="https://www.nationaldentalsupport.com">NDS</Link>. My projects include web apps,
       mobile apps, and database systems. Being comfortable with code allows me to rapidly
       prototype and validate experiences. If you’re interested in the tools and software I
       use check out my <Link href="/uses">uses page</Link>.
